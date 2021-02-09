@@ -13,7 +13,7 @@ Data Science project that utilizes machine learning models to predict the surviv
 
 ## Resources Used
 * Python Version: 3.7
-* Packages: os, cv2, numpy, matplotlib, pickle, tensorflow, tensorflow.keras
+* Packages: pandas, numpy, random, seaborn, matplotlib, sklearn
 
 <p align="center">
   <img width="600" height="380" src="https://github.com/ChuaMervin/Titanic_ML/blob/main/The-Titanic.jpg">
