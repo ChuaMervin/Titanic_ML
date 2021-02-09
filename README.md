@@ -16,5 +16,5 @@ Data Science project that utilizes machine learning models to predict the surviv
 * Packages: os, cv2, numpy, matplotlib, pickle, tensorflow, tensorflow.keras
 
 <p align="center">
-  <img width="800" height="640" src="https://github.com/ChuaMervin/Titanic_ML/blob/main/The-Titanic.jpg">
+  <img width="600" height="440" src="https://github.com/ChuaMervin/Titanic_ML/blob/main/The-Titanic.jpg">
 </p>
